@@ -1,8 +1,10 @@
 # Passmark AI Browser Tests
 
-AI-powered browser regression tests for a web app that contains a landing page, e-book reader and blog built with React + ReactReader. The site serves a book in epub format using [Passmark](https://github.com/bug0inc/passmark) + Playwright.
+AI-powered browser regression tests using [Passmark](https://github.com/bug0inc/passmark) + Playwright.
 
 ## App Under Test
+
+A React web app with a landing page, e-book reader (ReactReader) and blog. The site serves a Finnish-translated book in epub format.
 
 ## Setup
 
